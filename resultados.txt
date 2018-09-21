@@ -1,0 +1,110 @@
+1.
+
+"Elizabeth Barbara";"Jones"
+"Robert";"Smith"
+"Allan";"White"
+"Gordon";"Reid"
+"Claire";"MacCallan"
+"Brian Charles";"Murphy"
+
+2. 
+
+"Jack";"West"
+"Ester";"Allen"
+"Audrey";"Cowan"
+"Robert";"Roberts"
+
+3. 
+
+"New Topologies"
+"More Administration"
+"LANs"
+"Issues In Administration"
+"Introduction To Ingres"
+"Further Accounting"
+"Basic Accounting"
+"Ada"
+
+4. 
+
+"accounts";6
+"administration";7
+"communications";5
+"engineering";6
+"software design";8
+
+
+5. 
+
+"administration";7
+"software design";8
+
+
+6. 
+
+"Elizabeth Barbara";"Jones"
+"Robert";"Smith"
+"Allan";"White"
+"Gordon";"Reid"
+"Claire";"MacCallan"
+"Brian Charles";"Murphy"
+"Luke";"Kennedy"
+"Lynn";"Grant"
+"Elizabeth";"MacDonald"
+"Shirley";"MacDugle"
+"Chris";"Douglas"
+"Malcolm";"Christie"
+
+
+7. 
+
+"Robert";"Roberts"
+"Luke";"Kennedy"
+"Elizabeth Barbara";"Jones"
+"Brian Charles";"Murphy"
+"Shirley";"MacDugle"
+"Lynn";"Grant"
+"John David";"Stevenson"
+"Ester";"Allen"
+"William";"Dickson"
+"James";"Murray"
+"Chris";"Douglas"
+"Matthew";"Brownlie"
+"Audrey";"Cowan"
+"Elizabeth";"MacDonald"
+"David Andrew";"Robertson"
+"Liza";"Brunell"
+"Allan";"Robinson"
+"James";"Gibson"
+"Todd James";"South"
+"Robert";"Smith"
+"Audrey Mary";"Wright"
+
+8. 
+
+""
+
+9. 
+
+"Structural Stress Analysis"
+"Taffic Flow Analysis"
+
+
+10. 
+
+"More Administration"
+"Taffic Flow Analysis"
+
+
+11. 
+
+"Introduction To Ingres";3
+"Ada";3
+
+
+12. 
+
+"Audrey";"Cowan";78
+"Ian";"East";75
+"Elizabeth Barbara";"Jones";74
+
