@@ -9,13 +9,13 @@ WHERE EXISTS(SELECT 1 FROM empregado_curso EC
              INNER JOIN curso C ON (C.nu_curso = EC.nu_curso)
              WHERE EC.nu_empregado = E.nu_empregado AND C.nm_curso IN ('Ada', 'LANs'));
 -- Expected Output
--- 
+
 -- "Jack";"West"
 -- "Ester";"Allen"
 -- "Audrey";"Cowan"
 -- "Robert";"Roberts"
 -- Output
--- 
+
 --  nomeempregado | sobrenomeempregado 
 -- ---------------+--------------------
 --  Jack          | West
