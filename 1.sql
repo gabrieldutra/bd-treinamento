@@ -18,6 +18,8 @@ WHERE EXISTS(SELECT 1 FROM historico_emprego H WHERE H.nu_empregado = E.nu_empre
 -- 
 -- Output
 -- 
+--    nm_empregado    | nm_sobrenome 
+-- -------------------+--------------
 --  Elizabeth Barbara | Jones
 --  Robert            | Smith
 --  Allan             | White
